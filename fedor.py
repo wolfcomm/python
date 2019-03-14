@@ -1,4 +1,4 @@
-a = int(input("Введите значение А."))
+a = int(input("Input A."))
 x = a * 8
 if x < 18 :
     x = x * 2
